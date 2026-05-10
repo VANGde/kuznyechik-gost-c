@@ -1,0 +1,6 @@
+.clang-format
+*.o
+kuznechik_test
+test
+.DS_Store
+
